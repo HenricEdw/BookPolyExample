@@ -1,0 +1,6 @@
+C:\CodeProjects\Inheritance1\bin\Debug\Inheritance1.exe.config
+C:\CodeProjects\Inheritance1\bin\Debug\Inheritance1.exe
+C:\CodeProjects\Inheritance1\bin\Debug\Inheritance1.pdb
+C:\CodeProjects\Inheritance1\obj\Debug\Inheritance1.csprojAssemblyReference.cache
+C:\CodeProjects\Inheritance1\obj\Debug\Inheritance1.exe
+C:\CodeProjects\Inheritance1\obj\Debug\Inheritance1.pdb
